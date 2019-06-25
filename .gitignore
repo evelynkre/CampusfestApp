@@ -2,11 +2,6 @@
 *.apk
 *.ap_
 
-# Videos
-*.mp4
-*.jpg
-*.png
-
 # Files for the ART/Dalvik VM
 *.dex
 
