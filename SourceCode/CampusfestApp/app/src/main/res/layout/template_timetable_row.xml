@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal">
+
+<TextView
+    android:id="@+id/time"
+    style="@style/Font"
+    android:layout_width="@dimen/timetable_time_width"
+    android:layout_marginLeft="@dimen/timetable_time_margin_left"
+    android:textSize="@dimen/timetable_text"
+    android:layout_height="wrap_content" />
+
+<TextView
+    style="@style/Font"
+    android:id="@+id/bandName"
+    android:textSize="@dimen/timetable_text"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAlignment="textStart"
+    android:onClick="textClick"
+    />
+
+</LinearLayout>

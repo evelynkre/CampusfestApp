@@ -1,0 +1,25 @@
+<resources>
+    <!-- TITLES -->
+    <string name="title_main">Campusfest Reutlingen</string>
+    <string name="title_activity_line_up">LINE UP</string>
+    <string name="title_activity_band">BAND</string>
+    <string name="title_activity_timetable">TIMETABLE</string>
+    <string name="title_activity_pay">PAY</string>
+    <string name="title_activity_food_drinks">FOOD</string>
+    <string name="title_activity_sponsors">SPONSORS</string>
+    <string name="title_activity_feed">FEED</string>
+    <string name="title_activity_provide_money">PROVIDE MONEY (Employees)</string>
+    <string name="title_activity_receive_money">RECEIVE MONEY (Sellers)</string>
+    <string name="title_activity_admin">ADMIN (only)</string>
+
+    <!-- STARTUP -->
+    <string name="loadingPicDesc">Campusfest Reutlingen</string>
+
+    <!-- MAIN MENU -->
+    <string name="main_menu_money_text">Budget (in Eur)</string>
+
+    <!-- ERROR WINDOW -->
+    <string name="error_title">ERROR</string>
+    <string name="error_no_internet_first_start">You need Internetaccess on your first start.</string>
+    <string name="error_no_internet">You need Internetaccess to watch this.</string>
+</resources>

@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "5d1207292085b71f64cd833a",
+    "collection": "Payment",
+    "token": "7IYLOZN7JNI74A6F8PLONVPAWD0KCJPZMNFB2F7AHUWH45XNE179T90KE4HZQ8IF",
+    "amount": 200,
+    "type": "EMPLOYEE",
+    "username": "Test Employee"
+  },
+  {
+    "_id": "5d12073a2085b71f64cd833c",
+    "collection": "Payment",
+    "token": "CEKWL2557B9ZFMNB0VVV54FNL7QKKZMAF57MZMQK2AO10O6LDJSKMB2VGQ47CYVN",
+    "amount": 300,
+    "type": "SELLER",
+    "username": "Test Seller"
+  },
+  {
+    "_id": "5d1207462085b71f64cd833e",
+    "collection": "Payment",
+    "token": "M0B62XQL5TBC927E71WS19E0HCFRWUR2GY1A9H124OZWFXRBEDPD7JR5UDQKUBEE",
+    "amount": 20,
+    "type": "SELLER",
+    "username": "Test Customer"
+  },
+  {
+    "_id": "5d1207fd2085b71f64cd8340",
+    "collection": "Payment",
+    "token": "3PRVK0BX0GKZSKANZT6JILTPXRJM56GO8HN97L5UFHE2UIFK6J9UUYSYT3VIPY20",
+    "amount": 200,
+    "type": "EMPLOYEE",
+    "username": "Testuser Employee"
+  },
+  {
+    "_id": "5d12080c2085b71f64cd8342",
+    "collection": "Payment",
+    "token": "GBR4RDOWS3NRF5FJN6F0OKHD3QAEFRSXB31WCSM7MTB0YRPODKY0UQJT3XK0W4HE",
+    "amount": 300,
+    "type": "SELLER",
+    "username": "Testuser Seller"
+  },
+  {
+    "_id": "5d12081f2085b71f64cd8344",
+    "collection": "Payment",
+    "token": "L8X1D05ENPF88FO3LPESV7OA9DJUBD91BZXM8V7EA080TQCZGK9IY9I8L71DSPK8",
+    "amount": 20,
+    "type": "CUSTOMER",
+    "username": "Testuser Customer"
+  },
+  {
+    "_id": "5d1209c0d2235c0744328fb2",
+    "collection": "Payment",
+    "token": "55JBOGUG2RA8P2XAO0G55V375UD42XBYOF8P7H03H1XJ4KKXN1EPLTZXR19XCNZN",
+    "amount": 20,
+    "type": "SELLER",
+    "username": "Testuser Seller"
+  },
+  {
+    "_id": "5d120a0ad2235c0744328fb4",
+    "collection": "Payment",
+    "token": "YLEHI918PDHSSIL7G4R2HS5OCK0H3J6CTXOXFFWJ23KAOKAXEJ8E5K8SHJGNYLIY",
+    "amount": 0,
+    "type": "EMPLOYEE",
+    "username": "Testuser "
+  },
+  {
+    "_id": "5d120b63e3297c2ce8825bab",
+    "collection": "Payment",
+    "token": "RXJ2YUN6C3O3FPKJPYGUNMF52CZIEGYP8F82ZQVEANDW6JML3GWIC0BB67IJHZQP",
+    "amount": 200,
+    "type": "EMPLOYEE",
+    "username": "Testuser employee"
+  },
+  {
+    "_id": "5d120b72e3297c2ce8825bad",
+    "collection": "Payment",
+    "token": "N9P2CJ57463P3TB255ZZJKQ4A0DXYT0096RXXAFN91B13NNHNXHS4SWGV4HD0ALH",
+    "amount": 0,
+    "type": "EMPLOYEE",
+    "username": "Testuser seller"
+  },
+  {
+    "_id": "5d120b81e3297c2ce8825baf",
+    "collection": "Payment",
+    "token": "ZUL7MSZJO5SPDA030PA3F5S8W9JZ7HYV1PBE6S33VKYTRPWLESFTNU6LA9BUZDEY",
+    "amount": 20,
+    "type": "CUSTOMER",
+    "username": "Testuser customer"
+  },
+  {
+    "_id": "5d1210d817087102cc9accf2",
+    "collection": "Payment",
+    "token": "30XP0GXM65L9Q8BBE0MM0UN5G6LQ4GOLUOGVKAT1BOWN0EHTQ5VC7OP4CZT6YARA",
+    "amount": 200,
+    "type": "EMPLOYEE",
+    "username": "Testuser Employee"
+  },
+  {
+    "_id": "5d1210e717087102cc9accf4",
+    "collection": "Payment",
+    "token": "9OIMJ7USX9AOL5ZU8M2K3294TMQX1AE7QJDFXNY0CBKSBFGQEJ2ZZNMCSCKP5WVU",
+    "amount": 0,
+    "type": "SELLER",
+    "username": "Testuser Seller"
+  },
+  {
+    "_id": "5d1210f517087102cc9accf6",
+    "collection": "Payment",
+    "token": "T0HINGZXLDH9WOTNKNGMR7ROTOOR8J7PI6EQT2RZPO6NKU3CKY5OPTLCWL9DO3OW",
+    "amount": 20,
+    "type": "CUSTOMER",
+    "username": "Testuser Customer"
+  }
+]

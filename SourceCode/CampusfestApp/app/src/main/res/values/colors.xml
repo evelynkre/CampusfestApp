@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="background_red">#A7233F</color>
+    <color name="background_blue">#2F2260</color>
+    <color name="background_darker">#1F1250</color>
+
+    <color name="button_text">#D9D9D7</color>
+    <color name="button_background">#70272262</color>
+    <color name="button_background_darker">#70070242</color>
+
+    <color name="button_simulation_text">#60D9D9D7</color>
+    <color name="button_simulation_background">#40272262</color>
+    <color name="button_simulation_background_darker">#40070242</color>
+
+</resources>

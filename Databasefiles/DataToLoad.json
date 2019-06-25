@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "5d0ce8587f587108146abc25",
+    "restUri": "artists"
+  },
+  {
+    "_id": "5d0de0377f587108146abc2d",
+    "restUri": "timetables"
+  },
+  {
+    "_id": "5d1147607f587108146abc2e",
+    "restUri": "stages"
+  }
+]

@@ -1,0 +1,27 @@
+<resources>
+    <!-- GENERIC -->
+    <!-- APP BAR -->
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="app_bar_height">100dp</dimen>
+
+    <!-- LAYOUTS -->
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- MAIN MENU -->
+    <dimen name="main_menu_logo_height">100dp</dimen>
+    <dimen name="main_menu_text_money">30dp</dimen>
+
+    <!-- TIMETABLE -->
+    <dimen name="timetable_text">25dp</dimen>
+    <dimen name="timetable_time_margin_left">22dp</dimen>
+    <dimen name="timetable_time_width">150dp</dimen>
+
+    <!-- ARTIST -->
+    <dimen name="artist_name_text">30pt</dimen>
+    <dimen name="artist_description_text">20pt</dimen>
+
+</resources>

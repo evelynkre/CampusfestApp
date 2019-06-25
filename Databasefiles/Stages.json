@@ -1,0 +1,23 @@
+[
+  {
+    "location": {
+      "latitude": "48.482420",
+      "longitude": "9.187143"
+    },
+    "name": "Parkbühne"
+  },
+  {
+    "location": {
+      "latitude": "48.482221",
+      "longitude": "9.188569"
+    },
+    "name": "Mensa"
+  },
+  {
+    "location": {
+      "latitude": "48.482413",
+      "longitude": "9.187834"
+    },
+    "name": "Aula"
+  }
+]

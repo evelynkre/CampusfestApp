@@ -1,0 +1,47 @@
+[
+  {
+    "userId": "ITJBVIGU5WX4M7C5DOK3N6BRT0EKJIXY3WP5W4LV45VBZD9ZL9MEPCKK7XPZZ7Y0",
+    "mobileId": "Google - Android SDK built for x86",
+    "created": "Tue Jun 25 13:52:59 GMT+02:00 2019",
+    "isEmployee": "1",
+    "isSeller": "1",
+    "isAdmin": "1",
+    "username": "TestUser"
+  },
+  {
+    "userId": "PYWV0RH9JMHU83T7BVLX4HCXMXYZ967PA3SBMSFRP74GMMMREQ6TLPR6BCSIO83Q",
+    "mobileId": "Google - Android SDK built for x86",
+    "created": "Tue Jun 25 14:17:22 GMT+02:00 2019",
+    "isEmployee": "1",
+    "isSeller": "0",
+    "isAdmin": "0",
+    "username": ""
+  },
+  {
+    "userId": "PS0X3QKI9JKJQ5CQH0NVR5T1FHA5QQEKT7PT6BS5CB13FCYGWJOXTCYDUYFIN3DX",
+    "mobileId": "Google - Android SDK built for x86",
+    "created": "Tue Jun 25 14:17:43 GMT+02:00 2019",
+    "isEmployee": "0",
+    "isSeller": "1",
+    "isAdmin": "0",
+    "username": ""
+  },
+  {
+    "userId": "YO86IRY4QTLTXU9W3I4Y3NI3E1AL3PP60DNMTIGY1ER5OEFRJT8TS7Q7TEGLSWOZ",
+    "mobileId": "Google - Android SDK built for x86",
+    "created": "Tue Jun 25 14:17:57 GMT+02:00 2019",
+    "isEmployee": "0",
+    "isSeller": "0",
+    "isAdmin": "0",
+    "username": ""
+  },
+  {
+    "userId": "47BCMARHDXRQNKL0LAVANB6R3B50T7Q3DEYB0G804ARFS4U8GBLLEO0UPGASQCG9",
+    "mobileId": "Google - Android SDK built for x86",
+    "created": "Tue Jun 25 15:37:18 GMT+02:00 2019",
+    "isEmployee": "0",
+    "isSeller": "0",
+    "isAdmin": "0",
+    "username": ""
+  }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.campusfestapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/title_main"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Admin"></activity>
+        <activity
+            android:name=".Timetable"
+            android:label="@string/title_activity_timetable"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Video" />
+        <activity
+            android:name=".StartUp"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Artist"
+            android:label="@string/title_activity_band"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LineUp"
+            android:label="@string/title_activity_line_up"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainMenu"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
